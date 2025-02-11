@@ -1,0 +1,113 @@
+[2025-01-30 11:33:35] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 11:37:50] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 11:41:22] [ERROR] Agregar_Articulo - Error al agregar el articulo: list.append() takes exactly one argument (7 given)
+[2025-01-30 11:43:16] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 12:16:16] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 12:21:45] [ERROR] Realizar_Pago - Error al registrar la venta: type object 'datetime.datetime' has no attribute 'datetime'
+[2025-01-30 12:27:43] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 12:29:30] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 12:30:31] [ERROR] Realizar_Pago - Error al registrar la venta: type object 'datetime.datetime' has no attribute 'datetime'
+[2025-01-30 12:32:06] [ERROR] Realizar_Pago - Error al registrar la venta: type object 'datetime.datetime' has no attribute 'datetime'
+[2025-01-30 12:32:15] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 12:35:20] [ERROR] Execute_Query - Error al ejecutar la consulta: UNIQUE constraint failed: ventas.factura
+[2025-01-30 12:48:11] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 12:50:41] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 14:43:25] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 14:45:23] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 14:52:06] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 15:56:04] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 15:59:01] [ERROR] Editar_Articulo - Error al editar el articulo: 'int' object is not subscriptable
+[2025-01-30 16:09:07] [ERROR] Editar_Articulo - Error al editar el articulo: 'int' object is not subscriptable
+[2025-01-30 16:09:13] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 16:24:13] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 16:26:35] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:15:35] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:16:06] [ERROR] Ver_Ventas_Realizadas - Error al obtener las ventas realizadas: unknown option "-font"
+[2025-01-30 18:17:16] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:25:52] [ERROR] Ver_Ventas_Realizadas - Error al obtener las ventas realizadas: unknown option "-font"
+[2025-01-30 18:25:59] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:26:36] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:27:15] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:31:12] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:33:00] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 18:50:36] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 20:30:49] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 20:35:54] [ERROR] Execute_Query - Error al ejecutar la consulta: UNIQUE constraint failed: ventas.factura
+[2025-01-30 20:47:32] [ERROR] Generar_Factura_PDF - Error al generar la factura: module 'reportlab.lib.colors' has no attribute 'darkBlue'
+[2025-01-30 21:36:16] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 21:37:27] [ERROR] Execute_Query - Error al ejecutar la consulta: UNIQUE constraint failed: ventas.factura
+[2025-01-30 21:37:38] [ERROR] Generar_Factura_PDF - Error al generar la factura: module 'reportlab.lib.colors' has no attribute 'darkBlue'
+[2025-01-30 21:43:02] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 21:44:39] [ERROR] Execute_Query - Error al ejecutar la consulta: UNIQUE constraint failed: ventas.factura
+[2025-01-30 21:51:58] [ERROR] Generar_Factura_PDF - Error al generar la factura: 'Canvas' object has no attribute 'drawCenterString'
+[2025-01-30 21:52:09] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-30 21:53:53] [ERROR] Generar_Factura_PDF - Error al generar la factura: asUnicode(-60,enc='utf8') error:  'int' object has no attribute 'decode'
+[2025-01-30 22:17:57] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 06:55:53] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 06:57:31] [ERROR] Generar_Factura_PDF - Error al generar la factura: module 'reportlab.lib.colors' has no attribute 'darkBlue'
+[2025-01-31 07:00:25] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 07:01:14] [ERROR] Generar_Factura_PDF - Error al generar la factura: 'Canvas' object has no attribute 'drawCenterString'
+[2025-01-31 07:02:39] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 07:16:53] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 07:24:30] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 07:28:39] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 07:55:29] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 07:55:30] [ERROR] Cargar_Productos - Error al cargar los productos: invalid command name ".!frame.!container.!ventas.!labelframe.!combobox2"
+[2025-01-31 08:42:06] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 09:27:19] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 09:29:07] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 09:43:15] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 09:46:12] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 11:04:36] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 11:10:51] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 11:15:34] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:11:24] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:12:47] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:13:31] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:21:37] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:23:01] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:27:16] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:32:44] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:34:01] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:34:57] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:35:53] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:36:06] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-01-31 14:50:58] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such table: clientes
+[2025-02-03 09:09:16] [ERROR] Editar_Articulo - Error al editar el articulo: Unknown format code 'f' for object of type 'str'
+[2025-02-03 17:28:13] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such column: id
+[2025-02-03 17:28:16] [ERROR] Asignar_Impuesto - Error al obtener el impuesto: 'NoneType' object is not subscriptable
+[2025-02-03 17:29:37] [ERROR] Asignar_Impuesto - Error al obtener el impuesto: tuple index out of range
+[2025-02-03 17:34:59] [ERROR] Asignar_Impuesto - Error al actualizar el impuesto: QueriesSQLite.execute_query() missing 1 required positional argument: 'data_tuple'
+[2025-02-03 17:39:15] [ERROR] Asignar_Impuesto - Error al actualizar el impuesto: QueriesSQLite.execute_query() missing 1 required positional argument: 'data_tuple'
+[2025-02-04 10:58:48] [ERROR] Execute_Query - Error al ejecutar la consulta: near "web_empresa": syntax error
+[2025-02-04 10:59:32] [ERROR] Execute_Query - Error al ejecutar la consulta: near "web_empresa": syntax error
+[2025-02-04 11:00:38] [ERROR] Execute_Query - Error al ejecutar la consulta: near "web_empresa": syntax error
+[2025-02-04 11:02:23] [ERROR] Execute_Query - Error al ejecutar la consulta: near "web_empresa": syntax error
+[2025-02-04 11:02:47] [ERROR] Execute_Query - Error al ejecutar la consulta: near "web_empresa": syntax error
+[2025-02-04 21:01:30] [ERROR] Uso_Margen_Ganancia - Error al actualizar el uso del margen de ganancia: Inventario._cargar_articulos() missing 1 required positional argument: 'self'
+[2025-02-04 21:03:16] [ERROR] Uso_Margen_Ganancia - Error al actualizar el uso del margen de ganancia: Inventario._cargar_articulos() missing 1 required positional argument: 'self'
+[2025-02-04 21:04:35] [ERROR] Uso_Margen_Ganancia - Error al actualizar el uso del margen de ganancia: 'Configuracion' object has no attribute 'scrollable_frame'
+[2025-02-04 21:26:34] [ERROR] Execute_Query - Error al ejecutar la consulta: NOT NULL constraint failed: configuracion.uso_margen_ganancia
+[2025-02-05 11:18:15] [ERROR] Execute_Query - Error al ejecutar la consulta: NOT NULL constraint failed: configuracion.uso_margen_ganancia
+[2025-02-06 09:38:38] [ERROR] Actualizar_Stock_Precio - Error al obtener el stock y/o precio del producto: 'Ventas' object has no attribute 'uso_margen_ganancia'
+[2025-02-06 09:49:51] [ERROR] Actualizar_Stock_Precio - Error al obtener el stock y/o precio del producto: 'Entry' object has no attribute 'set'
+[2025-02-06 09:54:10] [ERROR] Actualizar_Stock_Precio - Error al obtener el stock y/o precio del producto: unknown option "-value"
+[2025-02-06 09:55:14] [ERROR] Actualizar_Stock_Precio - Error al obtener el stock y/o precio del producto: unknown option "-insert"
+[2025-02-06 09:55:41] [ERROR] Actualizar_Stock_Precio - Error al obtener el stock y/o precio del producto: unknown option "-insert"
+[2025-02-06 09:57:26] [ERROR] Actualizar_Stock_Precio - Error al obtener el stock y/o precio del producto: unknown option "-insert"
+[2025-02-06 15:37:09] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such column: producto
+[2025-02-06 15:37:11] [ERROR] r80_20_vproducto - Error al obtener el acumulado de ventas por producto: 'NoneType' object is not iterable
+[2025-02-06 15:39:13] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such column: producto
+[2025-02-06 15:39:14] [ERROR] r80_20_vproducto - Error al obtener el acumulado de ventas por producto: 'NoneType' object is not iterable
+[2025-02-06 15:39:26] [ERROR] Execute_Read_Query - Error al ejecutar la consulta: no such column: producto
+[2025-02-06 15:39:28] [ERROR] r80_20_vproducto - Error al obtener el acumulado de ventas por producto: 'NoneType' object is not iterable
+[2025-02-06 16:16:34] [ERROR] Inventario - Error al obtener el inventario: too many values to unpack (expected 4)
+[2025-02-06 16:18:16] [ERROR] Inventario - Error al obtener el inventario: too many values to unpack (expected 4)
+[2025-02-06 16:44:53] [ERROR] r80_20_cproducto - Error al obtener el acumulado de pedidos por producto: invalid command name ".!toplevel.!frame2.!treeview"
+[2025-02-06 16:45:24] [ERROR] r80_20_vcliente - Error al obtener el acumulado de ventas por cliente: invalid command name ".!toplevel.!frame2.!treeview"
+[2025-02-06 16:45:30] [ERROR] r80_20_vcliente - Error al obtener el acumulado de ventas por cliente: invalid command name ".!toplevel.!frame2.!treeview"
+[2025-02-08 10:14:21] [ERROR] Ver_Pedidos_Realizados - Error al obtener los pedidos realizados: [Errno 2] No such file or directory: 'Imagenes/icono_filtrar.png'
+[2025-02-09 08:17:13] [ERROR] Ver_Ventas_Realizadas - Error al obtener las ventas y/o pedidos realizadas: name 'result3' is not defined
+[2025-02-09 10:54:19] [ERROR] Ver_Ventas_Realizadas - Error al obtener las ventas y/o pedidos realizadas: 'str' object has no attribute 'strftime'
+[2025-02-09 11:28:03] [ERROR] Ver_Ventas_Realizadas - Error al obtener las ventas y/o pedidos realizadas: 'StringVar' object has no attribute 'strftime'
+[2025-02-09 12:39:31] [ERROR] Ver_Ventas_Realizadas - Error al obtener las ventas y/o pedidos realizadas: cannot access local variable 'limpiar_filtro' where it is not associated with a value
